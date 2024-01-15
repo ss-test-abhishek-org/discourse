@@ -112,7 +112,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ss-test-abhishek-org/discourse](https://github.com/ss-test-abhishek-org/discourse)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|153<br/>Tools used|01/10/24 <br/>Report generated|
+|153<br/>Tools used|01/15/24 <br/>Report generated|
 |------|------|
 </div>
 
